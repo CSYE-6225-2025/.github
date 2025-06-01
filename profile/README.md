@@ -2,7 +2,7 @@
 
 This project is a comprehensive demonstration of cloud application development and deployment, emphasizing robust security and high availability:
 
-![Architecture Diagram](./csye6225-full.drawio.png)
+![Architecture Diagram](../csye6225-full.drawio.png)
 
 *   RESTful Application Development & Enhanced CI:
     
@@ -58,7 +58,7 @@ This project is a comprehensive demonstration of cloud application development a
 
 CI/CD
 
-![CI/CD workflow](./cicd.drawio.png)
+![CI/CD workflow](../cicd.drawio.png)
 
 ### 📘 Key Takeaways
 
