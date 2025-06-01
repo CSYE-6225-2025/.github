@@ -73,8 +73,7 @@ CI/CD
 
 For more specific implementation details, visit the repos :
 
-*   Application and REST APIs : [https://github.com/csye6225-swetha/webapp](https://github.com/csye6225-swetha/webapp)
+*   Application and REST APIs : [https://github.com/CSYE-6225-2025/webapp](https://github.com/CSYE-6225-2025/webapp)
     
-*   Infrastructure : [https://github.com/csye6225-swetha/iac-pulumi](https://github.com/csye6225-swetha/iac-pulumi)
+*   Infrastructure : [https://github.com/CSYE-6225-2025/tf-aws-infra](https://github.com/CSYE-6225-2025/tf-aws-infra)
     
-*   Lambda Function : [https://github.com/csye6225-swetha/serverless](https://github.com/csye6225-swetha/serverless)
