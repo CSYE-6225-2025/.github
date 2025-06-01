@@ -2,6 +2,8 @@
 
 This project is a comprehensive demonstration of cloud application development and deployment, emphasizing robust security and high availability:
 
+![Architecture Diagram](csye6225-full.drawio.png)
+
 *   RESTful Application Development & Enhanced CI:
     
     *   Developed a scalable RESTful application, with Continuous Integration via GitHub Actions ensuring code reliability and quality.
@@ -30,9 +32,7 @@ This project is a comprehensive demonstration of cloud application development a
         
     *   Employed Route 53 for reliable domain registration and DNS management.
         
-*   Lambda Functions for Automated Operations:
-    
-    *   Integrated AWS Lambda for automated responses to specific events, streamlining operations and increasing efficiency.
+
         
 
 ### 💻 List of Cloud services used:
@@ -57,6 +57,8 @@ This project is a comprehensive demonstration of cloud application development a
     
 
 CI/CD
+
+![CI/CD workflow](cicd.drawio.png)
 
 ### 📘 Key Takeaways
 
